@@ -19,7 +19,6 @@
       </button>
     </ion-buttons>
   </ion-navbar>
-
 </ion-header>
 
 
@@ -42,6 +41,33 @@
       <ion-item>
         <ion-input type="text" placeholder="{{ 'ITEM_ABOUT_PLACEHOLDER' | translate }}" formControlName="about"></ion-input>
       </ion-item>
+
     </ion-list>
+    <ion-list radio-group>
+      <ion-list-header style="font-size: 16px">
+
+          Frequency
+        
+    </ion-list-header>
+      <ion-item>
+        <ion-label>Hourly</ion-label>
+        <ion-radio checked="true" value="hourly"></ion-radio>
+      </ion-item>
+
+      <ion-item>
+        <ion-label>Daily</ion-label>
+        <ion-radio value="daily"></ion-radio>
+      </ion-item>
+
+      <ion-item>
+        <ion-label>Weekly</ion-label>
+        <ion-radio value="weekly"></ion-radio>
+      </ion-item>
+    </ion-list>
+
+    <ion-item>
+      <ion-label> Active</ion-label>
+      <ion-toggle checked="true"></ion-toggle>
+    </ion-item>
   </form>
 </ion-content>
