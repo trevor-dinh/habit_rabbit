@@ -14,8 +14,7 @@ type PageList = PageItem[]
 })
 export class MenuPage {
   // A reference to the ion-nav in our component
-  @ViewChild(Nav) nav: Nav;
-
+  @ViewChild(Nav) nav: Nav; 
   rootPage: any = 'ContentPage';
 
   pages: PageList;
