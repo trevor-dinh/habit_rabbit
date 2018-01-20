@@ -7,8 +7,8 @@ export class Items {
   items: Item[] = [];
 
   defaultItem: any = {
-    "name": "Burt Bear",
-    "profilePic": "assets/img/speakers/bear.jpg",
+    "name": "Exercise",
+    "profilePic": "assets/img/habit_ic/weights.jpg",
     "about": "Burt is a Bear.",
   };
 
@@ -16,39 +16,19 @@ export class Items {
   constructor() {
     let items = [
       {
-        "name": "Burt Bear",
-        "profilePic": "assets/img/speakers/bear.jpg",
-        "about": "Burt is a Bear."
+        "name": "Fix Your Posture.",
+        "profilePic": "assets/img/habit_icons/situp.png",
+        "about": "Good posture is the key to solid back health."
       },
       {
-        "name": "Charlie Cheetah",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
-        "about": "Charlie is a Cheetah."
+        "name": "Drink Water",
+        "profilePic": "assets/img/habit_icons/water.jpg",
+        "about": "Stay Hydrated!"
       },
       {
-        "name": "Donald Duck",
-        "profilePic": "assets/img/speakers/duck.jpg",
-        "about": "Donald is a Duck."
-      },
-      {
-        "name": "Eva Eagle",
-        "profilePic": "assets/img/speakers/eagle.jpg",
-        "about": "Eva is an Eagle."
-      },
-      {
-        "name": "Ellie Elephant",
-        "profilePic": "assets/img/speakers/elephant.jpg",
-        "about": "Ellie is an Elephant."
-      },
-      {
-        "name": "Molly Mouse",
-        "profilePic": "assets/img/speakers/mouse.jpg",
-        "about": "Molly is a Mouse."
-      },
-      {
-        "name": "Paul Puppy",
-        "profilePic": "assets/img/speakers/puppy.jpg",
-        "about": "Paul is a Puppy."
+        "name": "Run a mile",
+        "profilePic": "assets/img/habit_icons/running.jpg",
+        "about": "Those chips aren't gonna burn themselves."
       }
     ];
 
