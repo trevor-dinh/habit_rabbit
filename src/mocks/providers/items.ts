@@ -41,9 +41,9 @@ export class Items {
         "about": "Tis will make you healthy and strong"
       },
       {
-        "name": "Take some drugs!",
+        "name": "Walk your doge!",
         "profilePic": "assets/img/habit_icons/dog.jpg",
-        "about": "You never know till you try"
+        "about": "Better for you and him, but mostly for him."
       }
 
     ];
