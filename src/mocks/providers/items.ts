@@ -16,7 +16,7 @@ export class Items {
   constructor() {
     let items = [
       {
-        "name": "Fix Your Posture.",
+        "name": "Fix Your Posture",
         "profilePic": "assets/img/habit_icons/situp.png",
         "about": "Good posture is the key to solid back health."
       },
@@ -29,7 +29,23 @@ export class Items {
         "name": "Run a mile",
         "profilePic": "assets/img/habit_icons/running.jpg",
         "about": "Those chips aren't gonna burn themselves."
+      },
+      {
+        "name": "Study for half an hour",
+        "profilePic": "assets/img/habit_icons/studying.jpg",
+        "about": "Gotta Ace that midtem. I believe in you!."
+      },
+      {
+        "name": "Drop and Gimme 20",
+        "profilePic": "assets/img/habit_icons/pushups.jpg",
+        "about": "Tis will make you healthy and strong"
+      },
+      {
+        "name": "Take some drugs!",
+        "profilePic": "assets/img/habit_icons/dog.jpg",
+        "about": "You never know till you try"
       }
+
     ];
 
     for (let item of items) {
