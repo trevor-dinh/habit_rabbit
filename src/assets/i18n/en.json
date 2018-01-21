@@ -26,14 +26,16 @@
   "TUTORIAL_SLIDE3_TITLE": "Getting Started",
   "TUTORIAL_SLIDE3_DESCRIPTION": "Check out some of our preloaded reminders. You can change, add, and delete from there!",
 
-  "TUTORIAL_SLIDE4_TITLE": "Ready to Start?",
+
+  "TUTORIAL_SLIDE4_TITLE": "Ready to Hop?",
+
 
   "WELCOME_INTRO": "The starting point for fixing your bad habits",
 
   "SETTINGS_TITLE": "Settings",
-  "SETTINGS_OPTION1": "Option 1",
-  "SETTINGS_OPTION2": "Option 2",
-  "SETTINGS_OPTION3": "Option 3",
+  "SETTINGS_OPTION1": "Name",
+  "SETTINGS_OPTION2": "Timezone",
+  "SETTINGS_OPTION3": "Do Not Disturb Schedule",
   "SETTINGS_OPTION4": "Option 4",
 
   "SETTINGS_PROFILE_BUTTON": "Edit Profile",
