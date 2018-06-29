@@ -21,3 +21,9 @@ https://firebase.google.com/docs/web/setup (Google has a guide on setting up Ion
 https://firebase.google.com/support/guides/firebase-web
 
 https://codelabs.developers.google.com/codelabs/firebase-web/#0
+
+https://ionicframework.com/docs/native/firebase/
+
+https://angularfirebase.com/lessons/ionic-google-login-with-firebase-and-angularfire/
+
+https://medium.com/appseed-io/integrating-firebase-password-and-google-authentication-into-your-ionic-3-app-2421cee32db9
